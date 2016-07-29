@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc3043d1-79f9-4447-9f8b-c449ae406fd0" name="Default" comment="" />
+    <ignored path="to_do_app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="to_do_app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="329" column="96" selection-start-line="329" selection-start-column="96" selection-end-line="329" selection-end-column="96" />
+              <folding>
+                <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+                <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+                <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
+                <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+                <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
+                <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+                <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+                <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+                <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
+                <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
+                <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+                <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+                <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+                <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+                <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+                <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+                <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+                <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+                <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
+                <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+                <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+                <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+                <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+                <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
+                <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
+                <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rad_s_zadacima.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/rad_s_zadacima.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lista.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/lista.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="909">
+              <caret line="304" column="0" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
+              <folding>
+                <marker date="1469804912701" expanded="true" signature="3346:3779" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="3438:3733" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="4245:4337" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="6279:6481" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="6531:6737" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="6787:6987" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="7037:7240" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="7420:7744" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="7842:8164" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="8349:9291" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="8388:8818" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="8935:9291" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="9367:10104" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="12544:14223" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="12605:14184" ph="..." />
+                <marker date="1469804912701" expanded="true" signature="12669:14141" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="novi_zadatak.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/novi_zadatak.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+              <folding>
+                <marker date="1469812126566" expanded="true" signature="1876:1900" ph="select * fro... prioriteti" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="184" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/net_config.php" />
+        <option value="$PROJECT_DIR$/public/scripts.php" />
+        <option value="$PROJECT_DIR$/public/header.php" />
+        <option value="$PROJECT_DIR$/public/confirm_email.php" />
+        <option value="$PROJECT_DIR$/public/log_off.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/public/AppKlase/Liste.php" />
+        <option value="$PROJECT_DIR$/public/AppKlase/StatusZadatka.php" />
+        <option value="$PROJECT_DIR$/public/config.php" />
+        <option value="$PROJECT_DIR$/public/brisanje_liste.php" />
+        <option value="$PROJECT_DIR$/public/login.php" />
+        <option value="$PROJECT_DIR$/public/menu.php" />
+        <option value="$PROJECT_DIR$/public/register.php" />
+        <option value="$PROJECT_DIR$/public/rad_s_listama.php" />
+        <option value="$PROJECT_DIR$/public/list.php" />
+        <option value="$PROJECT_DIR$/public/new.php" />
+        <option value="$PROJECT_DIR$/public/rad_s_zadacima.php" />
+        <option value="$PROJECT_DIR$/public/functions.php" />
+        <option value="$PROJECT_DIR$/public/lista.php" />
+        <option value="$PROJECT_DIR$/public/novi_zadatak.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="to_do_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="to_do_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="to_do_app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="to_do_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="to_do_app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php_users_media" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="header&#9;FILE&#9;file://C:/xampp/htdocs/to_do_app/public/header.php" />
+    <property name="last.edited.regexp" value="Sample Text" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\to_do_app\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc3043d1-79f9-4447-9f8b-c449ae406fd0" name="Default" comment="" />
+      <created>1469621027155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469621027155</updated>
+      <workItem from="1469621028355" duration="1435000" />
+      <workItem from="1469623599061" duration="6131000" />
+      <workItem from="1469637640637" duration="24056000" />
+      <workItem from="1469707428751" duration="9607000" />
+      <workItem from="1469726087738" duration="42000" />
+      <workItem from="1469727594537" duration="2401000" />
+      <workItem from="1469744980246" duration="6881000" />
+      <workItem from="1469793183043" duration="18302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68855000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.083333336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08385744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5457">
+          <caret line="321" column="0" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+          <folding>
+            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/rad_s_zadacima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1469804912701" expanded="true" signature="3346:3779" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="3438:3733" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="4245:4337" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6279:6481" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6531:6737" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6787:6987" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7037:7240" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7420:7744" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7842:8164" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8349:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8388:8818" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8935:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="9367:10104" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12544:14223" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12605:14184" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12669:14141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding>
+            <marker date="1469804912701" expanded="true" signature="3346:3779" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="3438:3733" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="4245:4337" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6279:6481" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6531:6737" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6787:6987" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7037:7240" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7420:7744" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7842:8164" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8349:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8388:8818" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8935:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="9367:10104" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12544:14223" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12605:14184" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12669:14141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/AppKlase/StatusZadatka.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/AppKlase/Liste.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="100" selection-start-line="92" selection-start-column="100" selection-end-line="92" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5202">
+          <caret line="306" column="68" selection-start-line="306" selection-start-column="68" selection-end-line="306" selection-end-column="68" />
+          <folding>
+            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="145" column="36" selection-start-line="145" selection-start-column="36" selection-end-line="145" selection-end-column="100" />
+          <folding>
+            <marker date="1469804912701" expanded="true" signature="3346:3779" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="3438:3733" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="4245:4337" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6279:6481" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6531:6737" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6787:6987" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7037:7240" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7420:7744" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7842:8164" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8349:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8388:8818" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8935:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="9367:10104" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12544:14223" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12605:14184" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12669:14141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5202">
+          <caret line="306" column="68" selection-start-line="306" selection-start-column="68" selection-end-line="306" selection-end-column="68" />
+          <folding>
+            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="145" column="36" selection-start-line="145" selection-start-column="36" selection-end-line="145" selection-end-column="100" />
+          <folding>
+            <marker date="1469804912701" expanded="true" signature="3346:3779" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="3438:3733" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="4245:4337" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6279:6481" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6531:6737" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6787:6987" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7037:7240" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7420:7744" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7842:8164" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8349:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8388:8818" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8935:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="9367:10104" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12544:14223" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12605:14184" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12669:14141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/rad_s_listama.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <marker date="1469804912701" expanded="true" signature="3346:3779" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="3438:3733" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="4245:4337" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6279:6481" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6531:6737" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6787:6987" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7037:7240" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7420:7744" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7842:8164" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8349:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8388:8818" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8935:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="9367:10104" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12544:14223" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12605:14184" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12669:14141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="79" selection-start-line="137" selection-start-column="66" selection-end-line="137" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="79" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/log_out.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/rad_s_listama.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/show_list.php" />
+    <entry file="file://$PROJECT_DIR$/public/confirm_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="27" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/AppKlase/Liste.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/AppKlase/StatusZadatka.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="329" column="96" selection-start-line="329" selection-start-column="96" selection-end-line="329" selection-end-column="96" />
+          <folding>
+            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="184" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="909">
+          <caret line="304" column="0" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
+          <folding>
+            <marker date="1469804912701" expanded="true" signature="3346:3779" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="3438:3733" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="4245:4337" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6279:6481" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6531:6737" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="6787:6987" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7037:7240" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7420:7744" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="7842:8164" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8349:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8388:8818" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="8935:9291" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="9367:10104" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12544:14223" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12605:14184" ph="..." />
+            <marker date="1469804912701" expanded="true" signature="12669:14141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/rad_s_zadacima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/novi_zadatak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+          <folding>
+            <marker date="1469812126566" expanded="true" signature="1876:1900" ph="select * fro... prioriteti" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="en" ><head>  <?php include 'header.php'; ?></head><body ><?php include 'list.php'; ?><?php include 'new.php'; ?><?php include 'scripts.php'; ?></body></html>

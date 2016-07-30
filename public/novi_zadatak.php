@@ -36,7 +36,7 @@ if(!isset($_COOKIE['user_id']))
                                     </div>
                                 </div>
 
-                            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
                                 <div class="welcome_part wow fadeInLeft">
                                     <div class="text-center">
 
@@ -60,16 +60,25 @@ if(!isset($_COOKIE['user_id']))
                                 </div>
                             </div>
 
-                            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
                                 <div class="welcome_part wow fadeInLeft">
                                     <div class="text-center">
-                                        <input type="datetime" required="required" id="napravi_rok" placeholder="1980/12/30 12:59:59">
+                                        <input type="date" required="required" id="napravi_rok" placeholder="1980/12/30 12:59:59">
                                     </div>
                                     <h2>Rok</h2>
                                 </div>
                             </div>
 
-                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                                <div class="welcome_part wow fadeInLeft">
+                                    <div class="text-center">
+                                        <input type="time" required="required" id="napravi_rok" placeholder="1980/12/30 12:59:59">
+                                    </div>
+                                    <h2>Rok</h2>
+                                </div>
+                            </div>
+
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                     <div class="welcome_part wow fadeInLeft">
                                         <div class="text-center">
                                             <input type="submit" value="Napravi" class="btn btn-default" id="napravi_potvrda">
@@ -100,99 +109,44 @@ if(!isset($_COOKIE['user_id']))
 <!-- Skripta za pravljenje zadatka -->
 <script type="text/javascript">
 
-    // funkcija za provijeru datuma i sati
-    function datum_sat(txtDate)
-    {
-        var trenutno = txtDate;
-        if(trenutno == '')
-        return false;
-        //Declare Regex
-        var uvjet = /^(\d{4})(\/|-)(\d{1,2})(\/|-)(\d{1,2})(\ |-)(\d{1,2})(\:|-)(\d{1,2})(\:|-)(\d{1,2})$/;
-        var provijera = trenutno.match(uvjet); // provjera unosa
-        if (provijera == null)
-        return false;
-        //Checks for yyyy/mm/dd hh:mm:ss format.
-        dt_godina   = provijera[1];
-        dt_mjesec   = provijera[5];
-        dt_dani     = provijera[7];
-        dt_sati     = provijera[9];
-        dt_minute   = provijera[11];
-        dt_sekunde  = provijera[13]
+$(document).ready(function(){
 
-        // provjera datuma
-        if (dt_mjesec < 1 || dt_mjesec > 12)
-        return false;
-    else if (dt_dani < 1 || dt_dani> 31)
-        return false;
-    else if ((dt_mjesec==4 || dt_mjesec==6 || dt_mjesec==9 || dt_mjesec==11) && dt_dani ==31)
-        return false;
-    else if (dt_mjesec == 2)
-        {
-            var isleap = (dt_godina % 4 == 0 && (dt_godina % 100 != 0 || dt_godina % 400 == 0));
-            if (dt_dani> 29 || (dt_dani ==29 && !isleap))
-            return false;
+    $('#napravi_potvrda').click(function(){
+
+        var napravi_to_do_id        = $('#napravi_to_do_id').val();
+        var napravi_naziv           = $('#napravi_naziv').val();
+        var napravi_prioritet       = $('#napravi_prioritet').val();
+        var napravi_rok             = $('#napravi_rok').val();
+
+        // ako su svi podaci unjeti nastavlja se postupak
+        if(napravi_to_do_id != '' && napravi_naziv != '' && napravi_prioritet != '' && napravi_rok != '') {
+
+            $.post('rad_s_zadacima.php', {
+                napravi_to_do_id: napravi_to_do_id,
+                napravi_naziv: napravi_naziv,
+                napravi_prioritet: napravi_prioritet,
+                napravi_rok: napravi_rok
+            }, function (data) {
+            });
+
+            // obaviještavamo korisnika da je zadatak napravljen
+
+            var upit = prompt('Zadataka je napravljen. ' +
+                '              Želite li ostati na listi (\"da\")');
+
+            if(upit === 'da')
+            {
+                window.location.replace('lista.php?to_do_id=' + napravi_to_do_id);
+            }else{
+                window.location.replace('index.php');
+            };
+
+        }else{
+            // obavijest o ne unjetim podacima
+            alert('Molimo unesite sve podatke.');
         }
-        // provjera sati
-        if (dt_sati < 1 || dt_sati > 24)
-            return false;
-        else if (dt_minute < 1 || dt_minute> 60)
-            return false;
-        else if (dt_sekunde < 1 || dt_sekunde> 60)
-            return false;
-
-        // ako su datum i sati ispravno unesene nastavljamo dalje
-        return true;
-    }
-
-    // funkcija za provijeru datuma i sati -> kraj
-
-    // provijerimo unjeti datum, ako je ispravan nastavljamo s unosom u bazu
-       $(document).ready(function(){
-
-          $('#napravi_potvrda').click(function(){
-
-            var txtVal =  $('#napravi_rok').val();
-
-              // ako su unjeti datum i sati ispravni
-            if(datum_sat(txtVal)) {
-
-                     var napravi_to_do_id        = $('#napravi_to_do_id').val();
-                     var napravi_naziv           = $('#napravi_naziv').val();
-                     var napravi_prioritet       = $('#napravi_prioritet').val();
-                     var napravi_rok             = $('#napravi_rok').val();
-
-              // ako su svi podaci unjeti nastavlja se postupak
-              if(napravi_to_do_id != '' && napravi_naziv != '' && napravi_prioritet != '' && napravi_rok != '') {
-
-                  $.post('rad_s_zadacima.php', {
-                      napravi_to_do_id: napravi_to_do_id,
-                      napravi_naziv: napravi_naziv,
-                      napravi_prioritet: napravi_prioritet,
-                      napravi_rok: napravi_rok
-                  }, function (data) {
-                  });
-                      // obaviještavamo korisnika da je zadatak napravljen
-                  var upit = prompt('Zadatak je napravljen. ' +
-                      '              Želite li ostati na listi (\"da\")');
-
-                  if(upit === 'da')
-                  {
-                      window.location.replace('lista.php?to_do_id=' + napravi_to_do_id);
-                  }else{
-                      window.location.replace('index.php');
-                  };
-
-              }else{
-                  // obavijest o ne unjetim podacima
-                  alert('Molimo unesite sve podatke.');
-              }
-
-            }
-                // ako su datum\satu netocni
-            else
-            alert('Netočan datum\\\sati');
-        });
-       });
+    });
+});
 </script>
 <!-- Skripta za pravljenje zadatka -> kraj -->
 

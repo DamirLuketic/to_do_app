@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc3043d1-79f9-4447-9f8b-c449ae406fd0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/prilagodba_zadatka.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/functions.php" afterPath="$PROJECT_DIR$/public/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/lista.php" afterPath="$PROJECT_DIR$/public/lista.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/novi_zadatak.php" afterPath="$PROJECT_DIR$/public/novi_zadatak.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/rad_s_zadacima.php" afterPath="$PROJECT_DIR$/public/rad_s_zadacima.php" />
     </list>
     <ignored path="to_do_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,90 +29,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5593">
-              <caret line="329" column="96" selection-start-line="329" selection-start-column="96" selection-end-line="329" selection-end-column="96" />
-              <folding>
-                <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-                <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-                <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-                <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-                <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-                <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-                <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-                <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-                <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-                <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-                <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-                <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-                <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-                <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-                <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-                <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-                <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-                <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-                <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-                <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-                <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-                <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-                <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-                <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-                <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-                <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rad_s_zadacima.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/rad_s_zadacima.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="lista.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/lista.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5168">
-              <caret line="304" column="0" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
+            <state relative-caret-position="246">
+              <caret line="236" column="124" selection-start-line="236" selection-start-column="124" selection-end-line="236" selection-end-column="124" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="novi_zadatak.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/novi_zadatak.php">
+      <file leaf-file-name="prilagodba_zadatka.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/prilagodba_zadatka.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="74" column="57" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
+            <state relative-caret-position="425">
+              <caret line="105" column="38" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
               <folding>
-                <marker date="1469876566111" expanded="true" signature="1876:1900" ph="select * fro... prioriteti" />
+                <marker date="1469946993677" expanded="true" signature="1684:2014" ph="..." />
+                <marker date="1469946993677" expanded="true" signature="2053:2109" ph="..." />
+                <marker date="1469946993677" expanded="true" signature="2246:2300" ph="..." />
+                <marker date="1469946993677" expanded="true" signature="2589:2613" ph="select * fro... prioriteti" />
+                <marker date="1469946993677" expanded="true" signature="5935:5990" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/list.php">
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2924">
-              <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="184" selection-end-column="66" />
-              <folding />
+            <state relative-caret-position="223">
+              <caret line="351" column="4" selection-start-line="351" selection-start-column="4" selection-end-line="351" selection-end-column="4" />
+              <folding>
+                <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+                <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+                <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+                <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+                <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+                <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+                <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+                <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+                <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+                <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+                <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+                <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+                <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+                <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+                <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+                <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+                <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+                <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+                <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+                <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+                <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+                <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+                <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+                <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+                <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+                <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+                <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+                <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+                <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+                <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+                <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+                <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+                <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,10 +133,12 @@
         <option value="$PROJECT_DIR$/public/rad_s_listama.php" />
         <option value="$PROJECT_DIR$/public/list.php" />
         <option value="$PROJECT_DIR$/public/new.php" />
+        <option value="$PROJECT_DIR$/public/edit.php" />
+        <option value="$PROJECT_DIR$/public/novi_zadatak.php" />
         <option value="$PROJECT_DIR$/public/rad_s_zadacima.php" />
         <option value="$PROJECT_DIR$/public/functions.php" />
         <option value="$PROJECT_DIR$/public/lista.php" />
-        <option value="$PROJECT_DIR$/public/novi_zadatak.php" />
+        <option value="$PROJECT_DIR$/public/prilagodba_zadatka.php" />
       </list>
     </option>
   </component>
@@ -289,24 +287,25 @@
       <workItem from="1469744980246" duration="6881000" />
       <workItem from="1469793183043" duration="19470000" />
       <workItem from="1469813730673" duration="1084000" />
-      <workItem from="1469874154996" duration="2397000" />
+      <workItem from="1469874154996" duration="7006000" />
+      <workItem from="1469940086227" duration="6867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73504000" />
+    <option name="totallyTimeSpent" value="84980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.083333336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0828125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.49166667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -356,54 +355,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2924">
-          <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="184" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5593">
           <caret line="329" column="96" selection-start-line="329" selection-start-column="96" selection-end-line="329" selection-end-column="96" />
           <folding>
-            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
           </folding>
         </state>
       </provider>
@@ -429,7 +428,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1469876566111" expanded="true" signature="1876:1900" ph="select * fro... prioriteti" />
+            <marker date="1469944229374" expanded="true" signature="1902:1926" ph="select * fro... prioriteti" />
           </folding>
         </state>
       </provider>
@@ -447,41 +446,49 @@
         <state relative-caret-position="5457">
           <caret line="321" column="0" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
           <folding>
-            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
           </folding>
         </state>
       </provider>
@@ -507,41 +514,49 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
           </folding>
         </state>
       </provider>
@@ -581,41 +596,49 @@
         <state relative-caret-position="5202">
           <caret line="306" column="68" selection-start-line="306" selection-start-column="68" selection-end-line="306" selection-end-column="68" />
           <folding>
-            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
           </folding>
         </state>
       </provider>
@@ -641,41 +664,49 @@
         <state relative-caret-position="5202">
           <caret line="306" column="68" selection-start-line="306" selection-start-column="68" selection-end-line="306" selection-end-column="68" />
           <folding>
-            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
           </folding>
         </state>
       </provider>
@@ -729,41 +760,49 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
           </folding>
         </state>
       </provider>
@@ -796,41 +835,49 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
           </folding>
         </state>
       </provider>
@@ -913,13 +960,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="27" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/AppKlase/Liste.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -941,87 +981,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/new.php">
+    <entry file="file://$PROJECT_DIR$/public/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5593">
-          <caret line="329" column="96" selection-start-line="329" selection-start-column="96" selection-end-line="329" selection-end-column="96" />
-          <folding>
-            <marker date="1469803578629" expanded="true" signature="1300:1348" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3252" ph="select * fro... " />
-            <marker date="1469803578629" expanded="true" signature="3246:3321" ph="select email... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="3567:3673" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
-            <marker date="1469803578629" expanded="true" signature="4740:4819" ph="update koris... " />
-            <marker date="1469803578629" expanded="true" signature="5928:5991" ph="select count... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
-            <marker date="1469803578629" expanded="true" signature="7047:7106" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7396:7470" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="7741:7785" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="8021:8122" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8021:8159" ph="insert into to_do... " />
-            <marker date="1469803578629" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
-            <marker date="1469803578629" expanded="true" signature="8998:9056" ph="select count... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
-            <marker date="1469803578629" expanded="true" signature="10201:10247" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10201:10250" ph="delete from " />
-            <marker date="1469803578629" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="27" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="104" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2924">
+        <state relative-caret-position="546">
           <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="184" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/lista.php">
+    <entry file="file://$PROJECT_DIR$/public/new.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5168">
-          <caret line="304" column="0" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/rad_s_zadacima.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="181">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="93" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/novi_zadatak.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="74" column="57" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
+        <state relative-caret-position="138">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="129" selection-end-column="51" />
           <folding>
-            <marker date="1469876566111" expanded="true" signature="1876:1900" ph="select * fro... prioriteti" />
+            <marker date="1469944229374" expanded="true" signature="1902:1926" ph="select * fro... prioriteti" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/rad_s_zadacima.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="351" column="4" selection-start-line="351" selection-start-column="4" selection-end-line="351" selection-end-column="4" />
+          <folding>
+            <marker date="1469946166076" expanded="true" signature="1300:1348" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="1922:2152" ph="insert into korisnici... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3252" ph="select * fro... " />
+            <marker date="1469946166076" expanded="true" signature="3246:3321" ph="select email... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="3567:3673" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="3794:3848" ph="select koris... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4385" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4313:4400" ph="select * fro... korisnici" />
+            <marker date="1469946166076" expanded="true" signature="4740:4819" ph="update koris... " />
+            <marker date="1469946166076" expanded="true" signature="5928:5991" ph="select count... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6542" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6591" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6599" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6600" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6615" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6616" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6619" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="6336:6749" ph="select to_do... to_do" />
+            <marker date="1469946166076" expanded="true" signature="7047:7106" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7396:7470" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="7741:7785" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="8021:8122" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8021:8159" ph="insert into to_do... " />
+            <marker date="1469946166076" expanded="true" signature="8620:8666" ph="select * fro... to_do" />
+            <marker date="1469946166076" expanded="true" signature="8998:9056" ph="select count... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9669" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9727" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9743" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9811" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9876" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9884" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="9372:9933" ph="select a.* ,... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="10201:10247" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10201:10250" ph="delete from " />
+            <marker date="1469946166076" expanded="true" signature="10506:10669" ph="insert into zadaci... " />
+            <marker date="1469946166076" expanded="true" signature="11046:11285" ph="select * fro... zadaci" />
+            <marker date="1469946166076" expanded="true" signature="11616:11633" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11641" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11666" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11690" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11697" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11708" ph="update zadac... " />
+            <marker date="1469946166076" expanded="true" signature="11616:11739" ph="update zadac... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lista.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="236" column="124" selection-start-line="236" selection-start-column="124" selection-end-line="236" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/prilagodba_zadatka.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="105" column="38" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
+          <folding>
+            <marker date="1469946993677" expanded="true" signature="1684:2014" ph="..." />
+            <marker date="1469946993677" expanded="true" signature="2053:2109" ph="..." />
+            <marker date="1469946993677" expanded="true" signature="2246:2300" ph="..." />
+            <marker date="1469946993677" expanded="true" signature="2589:2613" ph="select * fro... prioriteti" />
+            <marker date="1469946993677" expanded="true" signature="5935:5990" ph="..." />
           </folding>
         </state>
       </provider>

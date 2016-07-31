@@ -192,10 +192,10 @@ if(!isset($_COOKIE['user_id']))
                                   <tr>
                                       <th>Naziv:</th>
                                       <th>Prioritet:</th>
-                                      <th>Rok:</th>
                                       <th>Status:</th>
+                                      <th>Rok:</th>
                                       <th>Preostalo\Prekoračenje:</th>
-                                      <th>Edit</th>
+                                      <th></th>
                                       <th></th>
                                   </tr>
 
@@ -204,9 +204,8 @@ if(!isset($_COOKIE['user_id']))
                                   <tr>
                                       <td><?php echo $zadatak->naziv; ?></td>
                                       <td><?php echo $zadatak->naziv_prioriteta; ?></td>
-                                      <td><?php echo date( "Y-m-d \\\ G:ia",strtotime($zadatak->rok)); ?></td>
                                       <td><?php echo $zadatak->status == 0 ? 'Neriješen' : 'Riješen'; ?></td>
-
+                                      <td><?php echo date( "Y-m-d \\\ G:ia",strtotime($zadatak->rok)); ?></td>
                                       <td>
                                                     <?php
                                                     // ako je zadatak neriješen prikazujemo preostalo\prekoračeno vrijeme
@@ -231,7 +230,17 @@ if(!isset($_COOKIE['user_id']))
                                                     }
                                           ?>
                                       </td>
-                                      <td id="showmessage"></td>
+                                      <td>
+                                          <!-- prilagodba zadatka -->
+                                          <form action="prilagodba_zadatka.php" method="post">
+                                              <input type="hidden" name="zadatak_id" value="<?php echo $zadatak->zadatak_id; ?>">
+                                                <!-- šaljemo id liste i podatak o stranici, kako bi korisniku dali opciju za povratak na listu, bez dohvata "id" liste preko PDO-a -->
+                                              <input type="hidden" name="to_do_id" value="<?php echo $podaci_liste->to_do_id; ?>">
+                                              <input type="hidden" name="page" value="<?php echo $page; ?>">
+                                              <input type="submit" class="btn btn-primary" value="Prilagodba">
+                                          </form>
+                                          <!-- prilagodba zadatka - kraj -->
+                                      </td>
                                       <td>
                                           <!-- dio za brisanje zadatka -->
                                             <!-- završni dio za brisanje zadatka-> potvrda -->

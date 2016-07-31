@@ -336,3 +336,32 @@ function napravi_zadatak($to_do_id, $naziv, $prioritet_id, $rok)
         ':rok'          => $rok
     ]);
 }
+
+// funkcija za dohvat podataka o zadatku
+function podaci_zadatak($zadatak_id)
+{
+    global $zadatak_podaci;
+
+    $zadatak = $GLOBALS['con']->prepare(' select a.*, b.naziv as \'naziv_prioriteta\'
+                                          from zadaci as a inner join prioriteti as b on a.prioritet_id = b.prioritet_id
+                                          where a.zadatak_id = :zadatak_id ');
+    $zadatak->execute([
+        ':zadatak_id' => $zadatak_id
+    ]);
+    $zadatak_podaci = $zadatak->fetch(PDO::FETCH_OBJ);
+    
+    return $zadatak_podaci;
+}
+
+// funkcija za prilagodbu zadatka
+function prilagodba_zadatka($zadatak_id, $naziv, $prioritet_id, $status, $datum_sat)
+{
+    $prilagodba = $GLOBALS['con']->prepare(' update zadaci set naziv = :naziv, prioritet_id = :prioritet_id, status = :status, rok = :rok where zadatak_id = :zadatak_id');
+    $prilagodba->execute([
+        ':naziv'        => $naziv,
+        ':prioritet_id' => $prioritet_id,
+        ':status'       => $status,
+        ':rok'          => $datum_sat,
+        ':zadatak_id'   => $zadatak_id
+    ]);
+}

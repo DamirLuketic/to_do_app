@@ -29,7 +29,7 @@ if(!isset($_COOKIE['user_id']))
 
                                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
                                     <div class="welcome_part wow fadeInLeft">
-                                        <div class="text-center">
+                                        <div class="text-center form-control">
                                             <input required="required" type="text" id="napravi_naziv">
                                         </div>
                                         <h2>Naziv zadatka</h2>
@@ -38,7 +38,7 @@ if(!isset($_COOKIE['user_id']))
 
                             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
                                 <div class="welcome_part wow fadeInLeft">
-                                    <div class="text-center">
+                                    <div class="text-center form-control">
 
                                         <?php
                                         $prioritet = $GLOBALS['con']->query(' select * from prioriteti ');
@@ -63,18 +63,18 @@ if(!isset($_COOKIE['user_id']))
                             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
                                 <div class="welcome_part wow fadeInLeft">
                                     <div class="text-center">
-                                        <input type="date" required="required" id="napravi_rok" placeholder="1980/12/30 12:59:59">
+                                        <input type="date" required="required" id="napravi_rok">
                                     </div>
-                                    <h2>Rok</h2>
+                                    <h2>Rok - datum</h2>
                                 </div>
                             </div>
 
                             <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
                                 <div class="welcome_part wow fadeInLeft">
                                     <div class="text-center">
-                                        <input type="time" required="required" id="napravi_rok" placeholder="1980/12/30 12:59:59">
+                                        <input type="time" required="required" id="napravi_rok_sati" value="00:00">
                                     </div>
-                                    <h2>Rok</h2>
+                                    <h2>Rok - sat</h2>
                                 </div>
                             </div>
 
@@ -117,15 +117,17 @@ $(document).ready(function(){
         var napravi_naziv           = $('#napravi_naziv').val();
         var napravi_prioritet       = $('#napravi_prioritet').val();
         var napravi_rok             = $('#napravi_rok').val();
+        var napravi_rok_sati        = $('#napravi_rok_sati').val();
 
         // ako su svi podaci unjeti nastavlja se postupak
-        if(napravi_to_do_id != '' && napravi_naziv != '' && napravi_prioritet != '' && napravi_rok != '') {
+        if(napravi_to_do_id != '' && napravi_naziv != '' && napravi_prioritet != '' && napravi_rok != '' && napravi_rok_sati != '') {
 
             $.post('rad_s_zadacima.php', {
                 napravi_to_do_id: napravi_to_do_id,
                 napravi_naziv: napravi_naziv,
                 napravi_prioritet: napravi_prioritet,
-                napravi_rok: napravi_rok
+                napravi_rok: napravi_rok,
+                napravi_rok_sati : napravi_rok_sati
             }, function (data) {
             });
 

@@ -251,7 +251,7 @@ if(!isset($_COOKIE['user_id']))
                                               <!-- početni dio za brisanje zadatka -> dohvat "id" zadatka -->
                                               <form method="post">
                                                   <input type="hidden" name="brisanje_zadatak_id" value="<?php echo $zadatak->zadatak_id; ?>">
-                                                  <input type="submit" class="btn btn-danger" value="Brisanje">
+                                                  <input type="submit" class="btn btn-warning" value="Brisanje">
                                               </form>
                                           <?php endif; ?>
                                       </td>

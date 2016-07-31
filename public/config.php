@@ -2,12 +2,13 @@
 
 @session_start();
 
+
 $path = '';
 
-$mysql_host = "localhost";
-$mysql_database = "to_do_app";
-$mysql_user = "XXXXXXXXXXXXXXXX";
-$mysql_password = "XXXXXXXXXXXXXXXX";
+$mysql_host = "XXXXXXXXXXXXX";
+$mysql_database = "XXXXXXXXXXXXX";
+$mysql_user = "Luketic";
+$mysql_password = "Damir";
 
 $GLOBALS['path'] = $path;
 

@@ -2,22 +2,13 @@
 
 @session_start();
 
-// Net
-//$path = '/pages/to_do_app/public';
-//
-//$mysql_host = "localhost";
-//$mysql_database = "consiliu_to_do_app";
-//$mysql_user = "consiliu_damir";
-//$mysql_password = "post1982";
 
-// Local
-//$path = '/to_do_app/public/';
 $path = '';
 
 $mysql_host = "localhost";
 $mysql_database = "to_do_app";
-$mysql_user = "Luketic";
-$mysql_password = "Damir";
+$mysql_user = "XXXXXXXXXXXX";
+$mysql_password = "XXXXXXXXXXXXXX";
 
 $GLOBALS['path'] = $path;
 

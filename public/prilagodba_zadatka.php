@@ -42,7 +42,6 @@ if(!isset($_COOKIE['user_id']))
                                       <th>Prioritet:</th>
                                       <th>Status:</th>
                                       <th>Rok:</th>
-                                      <th>Preostalo\Prekoračenje:</th>
                                   </tr>
                                   <tr>
                                       <td><input class="form-control" type="text" id="novi_naziv" value="<?php echo $zadatak_podaci->naziv; ?>"></td>
@@ -90,15 +89,14 @@ if(!isset($_COOKIE['user_id']))
                                                       <input type="date" required="required" value="<?php echo $datum; ?>" id="novi_rok">
                                                       <input type="time" required="required" value="<?php echo $sat; ?>" id="novi_rok_sati" value="00:00">
                                       </td>
-                                      <td>
-                                          <input type="hidden" id="zadatak_id" value="<?php echo $zadatak_podaci->zadatak_id; ?>">
-                                          <div class="text-center">
-                                              <input type="submit" value="Prilagodi" class="btn btn-default" id="novi_potvrda">
-                                          </div>
-                                      </td>
                                   </tr>
                                     <!-- dio za prilagodbu podataka -->
                                 </table>
+                                <input type="hidden" id="zadatak_id" value="<?php echo $zadatak_podaci->zadatak_id; ?>">
+                                <div class="text-center">
+                                    <input type="submit" value="Prilagodi" class="btn btn-default" id="novi_potvrda">
+                                </div>
+                                <br />
                                 <!-- prikaz podataka i forma za prilagodbu / kraj -->
                                 <!-- povratak na prethodnu stranicu -->
                                 <div class="text-center">

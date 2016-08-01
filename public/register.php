@@ -1,7 +1,7 @@
 <?php include_once 'config.php'; ?>
 <?php include 'functions.php'; ?>
 <!-- osnovna poruka za korisnika -> mijenja se po potrebi -->
-<?php $_SESSION['msg'] = 'Nakon uspješne registracije, potrebno je potvrditi e-mail'; ?>
+<?php $_SESSION['msg'] = 'Nakon uspješne registracije, potrebno je potvrditi e-mail.'; ?>
 <!DOCTYPE html>
 <html lang="en" >
 <head>

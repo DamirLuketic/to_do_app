@@ -83,7 +83,7 @@ if(isset($_POST["value"]))
                                 <form method="post">
                                     <input type="hidden" name="value" value="desc">
                                     <input type="hidden" name="group" value="<?php echo $group; ?>">
-                                    <input type="submit" class="btn btn-primary" value="Padajuće">
+                                    <input type="submit" class="btn btn-primary" value="Rastuće">
                                 </form>
 
                                 <?php else: ?>
@@ -91,7 +91,7 @@ if(isset($_POST["value"]))
                                 <form method="post">
                                     <input type="hidden" name="value" value="asc">
                                     <input type="hidden" name="group" value="<?php echo $group; ?>">
-                                    <input type="submit" class="btn btn-primary" value="Rastuće">
+                                    <input type="submit" class="btn btn-primary" value="Padajuće">
                                 </form>
 
                                 <?php endif; ?>
